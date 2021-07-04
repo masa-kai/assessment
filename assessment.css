@@ -1,0 +1,28 @@
+body {
+  background: #04a6eb;
+  color: #fff;
+  width: 500px;
+  margin-top: 40px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+body #result-area {
+  margin-top: 12px;
+}
+
+button {
+  padding: 5px 20px;
+  background-color: #337ab7;
+  border-style: none;
+  color: #fff;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+input {
+  height: 24px;
+}
+/*# sourceMappingURL=assessment.css.map */
